@@ -18,8 +18,3 @@ The dataset used for this analysis is `shopping_trends.csv`. It contains informa
 - **Matplotlib**: For creating visualizations (charts and plots).
 - **Seaborn**: For advanced visualizations and statistical graphics.
 - **NumPy**: For numerical operations and array handling.
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/USERNAME/shopping-trends-analysis.git
